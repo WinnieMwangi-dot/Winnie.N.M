@@ -461,6 +461,7 @@ sqlglot==25.1.0
 sqlparse==0.5.2
 srsly==2.4.8
 stanio==0.5.1
+streamlit==1.40.2
 statsmodels==0.14.4
 StrEnum==0.4.15
 stringzilla==3.10.10
